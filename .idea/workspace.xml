@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3734cf49-e89b-426b-b150-dd648621a3e0" name="Changes" comment="" />
+    <list default="true" id="3734cf49-e89b-426b-b150-dd648621a3e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/04_Object-Oriented Programming (OOP)/01._OOP part 1/01._Basic_syntax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/04_Object-Oriented Programming (OOP)/01._OOP part 1/02.Exercise Backing account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Book and personal notes/Python Crash Course, 2nd Edition/01_OOP (Object-oriented programming)/checj out code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Book and personal notes/Python Crash Course, 2nd Edition/00.0_Introduction/06.1_Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Book and personal notes/Python Crash Course, 2nd Edition/00.0_Introduction/06.1_Sets.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2k4DSCFVRDOOeNMUVC1iRgxwRRH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,7 +39,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01._Basic_syntax.executor": "Run",
+    "Python.02.Exercise Backing account.executor": "Run",
+    "Python.checj out code.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/02_Python World"
   }
 }]]></component>
