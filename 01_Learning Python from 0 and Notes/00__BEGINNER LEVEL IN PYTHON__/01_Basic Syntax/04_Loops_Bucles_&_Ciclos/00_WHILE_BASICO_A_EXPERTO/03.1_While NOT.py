@@ -7,25 +7,27 @@ Este ejercicio te ayudará a comprender cómo usar while not para crear un bucle
 en este caso, hasta que el usuario ingrese la contraseña correcta.
 """
 
-import os 
-def limpiar_pantalla():
-    if os.name == 'nt':
-        os.system('cls')    
-    else:
-        os.system('clear')
-        
-user = input("Ingrese su Usuario ")
 password = "Tigre"
+intentos = 2
+
+##############################################################
+
+user = input("Ingrese su Usuario ")
 password_true = input("Ingrese su Contraseña ")
 
 
-while not password != password_true:
-    print("Contraseña Incorrecta")
-    password_true = input("Ingrese su Contraseña")  
-    break
-limpiar_pantalla()       
-print(f"Contraseña correcta\nGracias por elegirnos {user}, le deseamos un excelente dia :)")
+while password != password_true:
+        intentos -= 1
+        if intentos == 0:
+            print("Has agotado tus intentos.")
+            break
+        print("Contraseña Incorrecta, intenta de nuevo.")
+        password_true = input("Ingrese su Contraseña ")
 
+
+while password_true == password:
+    print(f"Contraseña correcta\nGracias por elegirnos {user}, le deseamos un excelente dia :)")
+    break
     
 
             
