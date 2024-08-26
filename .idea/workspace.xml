@@ -5,85 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3734cf49-e89b-426b-b150-dd648621a3e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/00_Lists/01.1_List_introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/00_Lists/01.2_Lista_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/00_Lists/01.3_List Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/00_Lists/01.4_Nested Lists and Matrices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/04_Dictionarys/04.2_Ejericios usos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/01_Advanced Data Structures/01.1_Lists Of Comprehensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/01_Advanced Data Structures/02.1_Lists nested.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/01_Advanced Data Structures/03.1_Dicts and Lists nested.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/01_Advanced Data Structures/04.1_Exe_Gestion Inventarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/02_Modules and Packages/Teory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/03_Object-Oriented Programming (OOP)/01.1_Introduction to OOP(POO).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/03_Object-Oriented Programming (OOP)/01.2_Ejercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/03_Object-Oriented Programming (OOP)/02.1_Encapsulacion de datos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/03_Object-Oriented Programming (OOP)/02.2_Ejercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/04_ Exceptions and Error Handling/01_Try and Except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/04_ Exceptions and Error Handling/02_Try and exceptions_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/06_Advanced File Handling/01.01_Intrudoction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Notas Rapidas/01_conditionals..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Notas Rapidas/02_For buckle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Notas Rapidas/03_Buckle While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Notas Rapidas/04_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Notas Rapidas/05_tuplas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Notas Rapidas/06_Diccionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Advanced Exercises in Python/01..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Advanced Exercises in Python/only check out.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Advanced Exercises in Python/02_dicts and list nested.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/01_Basic Syntax/04_Loops_Bucles_&amp;_Ciclos/00_WHILE_BASICO_A_EXPERTO/03.1_While NOT.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/01_Basic Syntax/04_Loops_Bucles_&amp;_Ciclos/00_WHILE_BASICO_A_EXPERTO/03.1_While NOT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/01_Basic Syntax/04_Loops_Bucles_&amp;_Ciclos/00_WHILE_BASICO_A_EXPERTO/03_While_NOT.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/0.01_Recoleccion de datos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/00_Listas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/010.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/01_Creacion de listas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/02_Acceso a elementos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/03_Modificaciones.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/04_METODOS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/05_Metodos usos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/06_Ejercicio listas_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/07_ejercicio_listas2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/08_ejemplolostas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/01_Lists/09. ejercicios de listas..py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/04_Dictionarys/04_Diccionarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/02_Data Structures/04_Dictionarys/04.1_Diccionarios.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/04_Object-Oriented Programming (OOP)/00.1_Lambda/Lambda uses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/04_Object-Oriented Programming (OOP)/01._OOP part 1/01._Basic_syntax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/00__BEGINNER LEVEL IN PYTHON__/04_Object-Oriented Programming (OOP)/01._OOP part 1/02.Exercise Backing account.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Book and personal notes/Python Crash Course, 2nd Edition/01_OOP (Object-oriented programming)/checj out code.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Book and personal notes/Python Crash Course, 2nd Edition/01_OOP (Object-oriented programming)/checj out code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/001_eliminar datos de una lista.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/003_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/004_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/005_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/006_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/007_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/008_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/009_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/010_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/Solo_Pegue_el_codigo_XD/PEGUELO ACÁ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/400 Ejercicios de Python/Tarea de Programacion SENA.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Calculadora_Matematica_Python/002_Calculadora basica.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Calculadora_Matematica_Python/02.1 Ejercicio Matematicas clase(URGENTE)1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Calculadora_Matematica_Python/11_Figuras geometricas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/EJercicios_Avanzados_Python/10_EJERCICIO WHILE_FINAL.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/001_eliminar datos de una lista.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/003_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/004_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/005_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/006_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/007_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/008_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/009_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/010_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/Solo_Pegue_el_codigo_XD/PEGUELO ACÁ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/400 Ejercicios de Python/Tarea de Programacion SENA.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/Calculadora_Matematica_Python/002_Calculadora basica.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/Calculadora_Matematica_Python/02.1 Ejercicio Matematicas clase(URGENTE)1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/Calculadora_Matematica_Python/11_Figuras geometricas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/EJercicios_Avanzados_Python/10_EJERCICIO WHILE_FINAL.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Ejercicios_Python/PROYECTOS_PYTHON_PENDIENTES/0.04. Ejercicio Avanzado 1° (PENDIENTE).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Python_Practices/00.1_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Python/Python_Practices/inventory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/01_Advanced Data Structures/04.1_Exe_Gestion Inventarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Learning Python from 0 and Notes/01__INTERMEDIATE LEVEL IN PYTHON__/01_Advanced Data Structures/04.1_Exe_Gestion Inventarios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Advanced Exercises in Python/01..py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Advanced Exercises in Python/01..py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +68,7 @@
     "Python.02.2_Ejericicio.executor": "Run",
     "Python.02.Exercise Backing account.executor": "Run",
     "Python.02_For buckle.executor": "Run",
+    "Python.02_dicts and list nested.executor": "Run",
     "Python.03.1_Dicts and Lists nested.executor": "Run",
     "Python.03.1_While NOT.executor": "Run",
     "Python.03_Buckle While.executor": "Run",

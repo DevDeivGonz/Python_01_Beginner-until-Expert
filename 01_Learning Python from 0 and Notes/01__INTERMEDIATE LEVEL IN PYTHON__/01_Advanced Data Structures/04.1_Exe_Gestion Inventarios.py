@@ -78,6 +78,7 @@ def Agregar_Productos():
                 Agregar_Productos()
             elif solicitud_agregar_producto == "No":
                 menu_principal()
+                break
             else:
                 print("Error, imgrese un valor valido")
 
